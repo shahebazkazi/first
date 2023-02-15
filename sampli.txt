@@ -1,0 +1,3 @@
+this is sample fil3
+:wq
+y
